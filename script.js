@@ -1,5 +1,4 @@
 const dinosaur = document.getElementById("dinosaur");
-const ground = document.getElementById("ground");
 
 document.addEventListener("keydown", jump);
 
